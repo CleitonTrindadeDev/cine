@@ -1,0 +1,20 @@
+body{
+    background-color: #11011c;
+}
+.nav-extended{
+    background-image:url(fundo3.jpg) ;
+    background-size:85%; /*Para adequar a imagem */
+    background-blend-mode:multiply;
+}
+nav ul li.active{
+    border-bottom: solid 2px #fff;
+}
+.tab a.active{
+    border-bottom: solid 2px #fff;
+}
+h1{
+    text-shadow: 4px 4px 8px #030303f6;
+}
+.nav-content , .nav-extended{
+    background-color: #381c49ab;
+}
